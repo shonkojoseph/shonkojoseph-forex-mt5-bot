@@ -1,0 +1,6 @@
+MetaTrader5
+pandas
+numpy
+ta-lib
+python-telegram-bot
+logging
